@@ -1,4 +1,5 @@
-# Mapping Individual Tree 
+# Enhancing Individual Tree Mortality Mapping: The Impact of Models, Data Modalities, and Classification Taxonomy
+This is a code repository for our paper DOI (yet to come).
 
 ## Environment
 To run our code, create a python virtual environment using the included `requirements.txt`. For training to run quickly, you will need a machine with a GPU.
@@ -13,4 +14,5 @@ To train our models use the included ipython notebook and data. You will need to
 Our tranined checkpoints are avaiable inside data/model_checkpoints and an example of how to run the model on unlabeled data is shown in predict.py
 
 
-
+## License
+The code is released under the included MIT [license](LICENSE) while the data is released under a creative commons non-commercial license included with the data.
