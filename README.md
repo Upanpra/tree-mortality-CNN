@@ -13,6 +13,8 @@ To train our models use the included ipython notebook and data. You will need to
 ## Running Inference
 Our tranined checkpoints are avaiable inside data/model_checkpoints and an example of how to run the model on unlabeled data is shown in predict.py
 
+## Data
+The data for this project is available on Zenodo.
 
 ## License
 The code is released under the included MIT [license](LICENSE) while the data is released under a creative commons non-commercial license included with the data.
