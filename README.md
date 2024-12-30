@@ -1,5 +1,5 @@
 # Enhancing Individual Tree Mortality Mapping: The Impact of Models, Data Modalities, and Classification Taxonomy
-This is a code repository for our paper DOI (yet to come).
+This is a code repository for our paper https://doi.org/10.1016/j.rse.2023.113914 .
 
 ## Environment
 To run our code, create a python virtual environment using the included `requirements.txt`. For training to run quickly, you will need a machine with a GPU.
